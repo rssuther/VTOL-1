@@ -1,0 +1,15 @@
+To run the demo, run python demo.py or python3 demo.py
+
+Once Launched the demo will prompt the user for the display mode: 
+   
+   O will display process visuals, T will run the process without
+      image output for timing results.
+
+   S will specify running in single process mode or D for dual process
+      mode
+
+   S will specify to run only the Stitcher, P will specify to run only the POI
+      process
+
+
+To exit just send the Termination Key
